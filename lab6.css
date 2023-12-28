@@ -1,0 +1,9 @@
+html{
+    background-color: rgb(71, 209, 233);
+}
+a{
+    color: white;
+}
+a:hover{
+    color: rgb(198, 93, 224);
+}
